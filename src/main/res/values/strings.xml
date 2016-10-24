@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ForceGym</string>
+    <string name="txtUser">Nombre de usuario:</string>
+    <string name="txtSlogan">Condicion Fisica Para Personas PRO</string>v
+    <string name="txtPassword">Contrasena:</string>
+    <string name="txtLogin">Usuario</string>
+    <string name="txtRePass">Repetir Contrasena</string>
+    <string name="txtPass">Contrasena</string>
+    <string name="txtEstatura">Estatura</string>
+    <string name="txtPeso">Peso</string>
+    <string name="txtPass2">Contrasena</string>
+    <string name="txtEmail">Email</string>
+    <string name="btnIngresar">Ingreso</string>
+    <string name="btnRegistro">Registro</string>
+    <string name="btnSign">Registrarse</string>
+    <string name="txtTextoRegistro">Formulario de Registro</string>
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+
+    <string name="Cerrar">Cerrar sesión</string>
+</resources>

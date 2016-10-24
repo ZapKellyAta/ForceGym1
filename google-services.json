@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "591459845701",
+    "firebase_url": "https://forcegym-b010f.firebaseio.com",
+    "project_id": "forcegym-b010f",
+    "storage_bucket": "forcegym-b010f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591459845701:android:6cfeddf0340b793a",
+        "android_client_info": {
+          "package_name": "com.example.kellyjohanazapataestrada.forcegym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591459845701-r3rs447b5945gmkei1tidrb5p7icsvq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kellyjohanazapataestrada.forcegym",
+            "certificate_hash": "F53710C800DC2DB859415CF3059F1AC008982381"
+          }
+        },
+        {
+          "client_id": "591459845701-2q4snc6v8sic7sk2nekj8cutnbm654fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACFeHufS_4EzXgAW7U6H_o_4BGfKim7U8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591459845701-2q4snc6v8sic7sk2nekj8cutnbm654fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
